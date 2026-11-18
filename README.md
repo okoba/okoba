@@ -1,4 +1,4 @@
-# Hi, I'm Gloria 👋
+# Hi, I'm Gloria 
 
 **Data Engineer** building reliable pipelines from raw sources to production-ready data.
 
@@ -20,7 +20,7 @@ transformation, warehousing, orchestration, and quality checks.
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### [uber-data-pipeline](https://github.com/okoba/uber-data-pipeline)
 End-to-end pipeline: raw CSVs → Python transforms → star-schema warehouse → Looker serving layer.
@@ -34,7 +34,7 @@ Reusable SQL patterns for deduplication, null handling, and schema validation.
 
 ---
 
-## 📈 Impact so far
+##  Impact so far
 
 - **40M+** records processed across client pipelines
 - **60%** reduction in ETL processing time via incremental loads + partitioning
@@ -42,7 +42,7 @@ Reusable SQL patterns for deduplication, null handling, and schema validation.
 
 ---
 
-## ✍️ Writing
+##  Writing
 
 I write about the unglamorous side of data engineering — the plumbing nobody shows you.
 
@@ -50,7 +50,7 @@ I write about the unglamorous side of data engineering — the plumbing nobody s
 
 ---
 
-## 📫 Let's connect
+##  Let's connect
 
 - LinkedIn: Gloria Okoba
 - Twitter/X: [@dat_Godwoman](https://twitter.com/dat_Godwoman)
